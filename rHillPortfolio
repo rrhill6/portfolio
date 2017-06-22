@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="UTF-8" lang="en">
+  <title>Rochell Hill</title>
+  <link rel = "stylesheet" type="text/css" href="portfolioStyleSheet2.css"/>
+  <link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<header>
+  <nav>
+    <ul>
+      <li><a href="#about">About Me</a></li>
+      <li><a href="#portfolio">Portfolio</a></li>
+      <li><a href="#contact">Contact Me</a></li>
+      <li><a href="#banner">Top</a></li>
+    </ul>
+
+</header>
+
+  <div id="banner">
+    <h3>Hi, I'm Rochell...</h3>
+    <h4>I didn't create the internet, but I can create a website to make it work for you!</h4>
+  </div>
+<!--Brief description of skills-->
+<div id="about">
+  <h3>About Rochell...</h3>
+  <p>Building cool websites started as a hobby for me several years ago
+    with a "little" html knowledge and some free time. After many years teaching high
+    school science, I turned my former hobby into a new career. Currently, I am designing
+    websites using HTML, bootstrap, JavaScript and CSS. My goal for each site is to
+    create a beautiful, accessible and responsive website that gives your business or organization
+    a strong presence on the internet.
+  </p>
+</div>
+
+  <!--Portfolio with links-->
+<div id="portfolio">
+  <h3>Recent Work</h3>
+      <p>Click on the link to view each available website.</p>
+    <table>
+      <tr>
+          <td>
+            <img class="thumbnail" src="http://placehold.it/100x100">
+          </td>
+          <td>
+            <h5>South Paulding XC and Track</h5>
+            <p>Brief description on website.</p>
+          </td>
+          <td>
+            <img class="thumbnail" src="http://placehold.it/100x100">
+          </td>
+          <td>
+            <h5>Chapel Hill XC and Track</h5>
+            <p>Brief description of website.</p>
+          </td>
+      </tr>
+      <tr>
+          <td>
+            <img class="thumbnail" src="http://placehold.it/100x100">
+          </td>
+          <td>
+            <h5>another example of my work</h5>
+            <p>Brief description on website.</p>
+          </td>
+          <td>
+            <img class="thumbnail" src="http://placehold.it/100x100">
+          </td>
+          <td>
+            <h5>another example of my work</h5>
+            <p>Brief description on website.</p>
+          </td>
+      </tr>
+    </table>
+</div>
+
+<!--Contact and social media page-->
+<div id="contact">
+<!--link to email<-->
+  <h3>Contact me! </h2>
+  <form>
+
+  </form>
+<!--link to LinkdIn-->
+  <p>LinkedIn</p>
+<!--link to twitter-->
+  <p>Twitter</p>
+<!--link to blog-->
+  <p>Blog</p>
+</div>
+
+<footer>
+  <div>
+    <p>Contents and Photos &copy 2017 - Rochell Hill</p>
+ </div>
+</footer>
+</body>
+
+</html>
